@@ -1,0 +1,7 @@
+
+Experiment ID,Channel,Hypothesis,Primary KPI,Planned Budget USD,Test Duration Days,Target CPA USD,Actual Spend USD,Qualified Signups,Actual CPA USD,Status,Decision
+EXP-001,YouTube,Developer tutorials will generate qualified signups at lower CPA than TikTok,Cost per qualified signup,500,30,40,,,,Planned,Pending
+EXP-002,TikTok,Short-form AI builder demos will attract qualified trial users,Cost per qualified signup,500,30,40,,,,Planned,Pending
+EXP-003,Instagram,Creator-led educational carousels will generate qualified product interest,Cost per qualified signup,300,30,45,,,,Planned,Pending
+EXP-004,YouTube,Repeat partnerships with relevant creators will improve acquisition efficiency,Cost per qualified signup,600,45,35,,,,Planned,Pending
+  
